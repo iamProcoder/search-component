@@ -1,0 +1,4 @@
+@mixin theme($theme: #443f5d) {
+    background: $theme;
+    color: #fff;
+  }

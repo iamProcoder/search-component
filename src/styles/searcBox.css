@@ -1,0 +1,18 @@
+.searchBox {
+  background: #443f5d;
+  color: #fff;
+  border: 1px solid #ccc;
+  padding: 30px;
+}
+.searchBox .searchText {
+  color: #fff;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #757575;
+  width: 50%;
+  margin-left: 10px;
+  padding: 5px;
+}
+.searchBox .searchText:focus-visible {
+  outline: none;
+}/*# sourceMappingURL=searcBox.css.map */

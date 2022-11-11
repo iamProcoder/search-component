@@ -1,0 +1,33 @@
+.searchResult {
+  display: flex;
+  overflow-y: auto;
+  max-height: 442px;
+}
+.searchResult ul {
+  list-style-type: none;
+  padding: 0;
+  width: 100%;
+}
+.searchResult ul li {
+  color: rgb(54, 54, 54);
+  padding: 15px 35px;
+  min-height: 50px;
+}
+.searchResult ul li div:first-child {
+  font-weight: 600;
+  font-size: 19px;
+  margin-bottom: 5px;
+}
+.searchResult ul li div:last-child span {
+  display: inline-flex;
+  justify-content: flex-start;
+  min-width: 250px;
+  font-weight: 400;
+}
+.searchResult ul li div:last-child .icons {
+  margin: 5px 5px 0 0;
+  font-size: 13px;
+}
+.searchResult ul li:nth-child(even) {
+  background-color: rgb(215, 214, 214);
+}/*# sourceMappingURL=searchResult.css.map */
