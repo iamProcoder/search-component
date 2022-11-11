@@ -11,4 +11,6 @@ https://adorable-paletas-d3e9ca.netlify.app/
 
 ![sc1](https://user-images.githubusercontent.com/36915373/201358995-6761bc47-fbd2-444d-be27-1044df7ca3e0.png)
 
-![sc2](https://user-images.githubusercontent.com/36915373/201359012-cfdf05c5-4997-4be0-a041-16c1b2ae6a8e.png)
+![sc2](https://user-images.githubusercontent.com/36915373/201372790-cfcc73e5-eebe-4425-836d-00a2be58e7b2.png)
+
+
