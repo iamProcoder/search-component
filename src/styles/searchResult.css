@@ -24,6 +24,9 @@
   min-width: 250px;
   font-weight: 400;
 }
+.searchResult ul li div:last-child span:nth-child(even) {
+  min-width: 400px;
+}
 .searchResult ul li div:last-child .icons {
   margin: 5px 5px 0 0;
   font-size: 13px;
