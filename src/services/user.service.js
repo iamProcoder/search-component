@@ -1,13 +1,13 @@
 
 // like get fetch data on DB
-import usersData from '../data/mock-user-data.json';
+import { data } from '../data/MockData';
 
 const getData = (filterItem) => {
 
     if (filterItem?.length > 2) {
-       return usersData.filter(f => f.name.toLowerCase().includes(filterItem.toLowerCase()) || f.policyNo.includes(filterItem));
+       return data.filter(f => f.name.toLowerCase().includes(filterItem.toLowerCase()) || f.policyNo.includes(filterItem));
     }
-  return usersData;
+  return data;
 }
 
 export default getData
